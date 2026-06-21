@@ -82,4 +82,9 @@ The data is aggregated from 16 underlying source datasets. This project loads it
 
 ## Authors
 
-- _Your name here_
+- Mariana Pereira
+- Carolina Dias
+- Elif Ozturk​
+- Simão Bernardo
+- Leonor Couto
+- Sofia Fernandes
