@@ -84,7 +84,7 @@ The data is aggregated from 16 underlying source datasets. This project loads it
 
 - Mariana Pereira
 - Carolina Dias
-- Elif Ozturk​
-- Simão Bernardo
-- Leonor Couto
+- [Elif Ozturk](https://github.com/gksoztrk)​
+- [Simão Bernardo](https://github.com/simaozuzarte)
+- [Leonor Couto](https://github.com/Leonor2004)
 - Sofia Fernandes
